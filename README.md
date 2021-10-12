@@ -1,8 +1,8 @@
 # OOP
 Object Oriented Programming first year course, including final project and assignments.  
 Assignments details were given here: https://github.com/ariecattan/biuoop2021/wiki.  
-We used universty lib called biuoop-1.4.jar and it is requires for compiling some of the assignments.  
-There are build.xml files in each assignment for Apache Ant, which used for compiling and building each project.  
+We used university library called 'biuoop-1.4.jar' and it requires for compiling some of the assignments.  
+There are also build.xml files in each assignment for Apache Ant, which used for compiling and building each project.  
 
 # Assignment 1
 This was first assignment for the coruse, and we mainly deal with how to read input from console, and work with it in code.  
