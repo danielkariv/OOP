@@ -27,5 +27,5 @@ In this assignment, We created logical expressions system, which we can create l
 In this assignment, We were given a database of files including paragrams.  
 We were request to find relations between words, using common sentences structures.  
 We used regex to build sentence schemes, and search the files for them.  
-The code is split to two programs, one creates the database and save it, another is loading the database and run over it to discover Hypernyms and their relations. 
+The code is split to two programs, one creates the database and save it, another is loading the database and run over it to discover Hypernyms and their relations.   
 For compiling and running this project, you will need to download the database from here : https://drive.google.com/drive/folders/11aVnX9r-k5iy2GafZd-o5lBBgeNRuFDN (NOTICE: need few GB free to download and unzip it). 
